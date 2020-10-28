@@ -7,7 +7,10 @@ A middleware for github authentication.
 You can install this module with npm
 
 ```
+Instead
 npm install github-auth
+use
+npm install revisohq/github-auth#v3.0.2
 ```
 
 ## Usage
